@@ -1,0 +1,8 @@
+#! /usr/local/bin/env python
+"""
+This code is to extract hindcast wave data between 1995-2015 from ECMWF
+
+
+Created by Wengang.Mao@chalmers.se
+"""
+
